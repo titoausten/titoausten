@@ -1,5 +1,5 @@
 # ◼️ About Me:
-◽ Currently enrolled in a Software Engineering programme by ALX Africa & Holberton School.<br>◽ Currently learning Machine Learning and ROS.<br> ◽ Core Member, Global AI Hub.<br> ◽ Brand Ambassador, Robotics Africa.<br> ◽ I am also a Singer, Rapper and Dancer. [Click to access My stuff.](https://linktr.ee/titoausten)
+◽ Software Engineering Intern at Bitnine Global Inc.<br> ◽ Core Member, Global AI Hub<br> ◽ Brand Ambassador, Robotics Africa<br> ◽ I am also an Artiste and Songwriter. [Click to access My stuff.](https://linktr.ee/titoausten)
 
 
 ## 🌐 Socials:

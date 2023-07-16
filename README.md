@@ -1,5 +1,5 @@
 # ◼️ About Me:
-◽ Software Engineering Intern at Bitnine Global Inc.<br> ◽ Core Member, Global AI Hub<br> ◽ Brand Ambassador, Robotics Africa<br> ◽ I am also an Artiste and Songwriter. [Click to access My stuff.](https://linktr.ee/titoausten)
+◽ Software Engineering Intern at [Bitnine Global Inc.](https://bitnine.net/)<br> ◽ Core Member, [Global AI Hub](https://globalaihub.com/)<br> ◽ Brand Ambassador, [Robotics Africa](https://roboticsafrica.org/)<br>
 
 
 ## 🌐 Socials:

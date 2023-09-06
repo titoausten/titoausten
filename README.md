@@ -1,5 +1,6 @@
 # ◼️ About Me:
-◽ Software Engineering Intern at [Bitnine Global Inc.](https://bitnine.net/)<br> ◽ Core Member, [Global AI Hub](https://globalaihub.com/)<br> ◽ Brand Ambassador, [Robotics Africa](https://roboticsafrica.org/)<br>
+◽ Core Member, [Global AI Hub](https://globalaihub.com/)<br> ◽ Brand Ambassador, [Robotics Africa](https://roboticsafrica.org/)<br>
+◽ Former Software Engineering Intern at [Bitnine Global Inc.](https://bitnine.net/)<br>
 
 
 ## 🌐 Socials:

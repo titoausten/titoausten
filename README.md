@@ -1,5 +1,5 @@
 # ◼️ About Me:
-◽ Currently studying MSc Artificial Intelligence and Data Science at [Keele University](https://globalaihub.com/)<br>
+◽ Currently studying MSc Artificial Intelligence and Data Science at [Keele University](https://www.keele.ac.uk/)<br>
 ◽ Machine Learning Contributor at [Unify](https://unify.ai)<br>
 ◽ Software Development Contributor at [Bitnine Global Inc.](https://bitnine.net/)<br>
 

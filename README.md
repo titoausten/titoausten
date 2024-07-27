@@ -1,7 +1,7 @@
 # ◼️ About Me:
-◽ Core Member, [Global AI Hub](https://globalaihub.com/)<br>
-◽ Brand Ambassador, [Robotics Africa](https://roboticsafrica.org/)<br>
-◽ Open Source Contributor and Former Software Engineer at [Bitnine Global Inc.](https://bitnine.net/)<br>
+◽ Currently studying MSc Artificial Intelligence and Data Science at [Keele University](https://globalaihub.com/)<br>
+◽ Machine Learning Contributor at [Unify](https://unify.ai)<br>
+◽ Software Development Contributor at [Bitnine Global Inc.](https://bitnine.net/)<br>
 
 
 ## 🌐 Socials:
